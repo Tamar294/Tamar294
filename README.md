@@ -7,7 +7,8 @@ For every project I take on, I invest deep thought to ensure that it is not only
 I am looking for my next opportunity to join a winning team 🏆, work on challenging projects, and give my best 💯.
 
 💻 Technologies I’m proficient in:
-![Flutter](https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg){:width="50px"}
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50" />
+
 
 
 📫 Contact me at: tamarcohen294@gmail.com
