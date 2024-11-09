@@ -39,7 +39,7 @@ I am looking for my next opportunity to join a winning team 🏆, work on challe
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" width="50" />
+<img src="https://camo.githubusercontent.com/5362a37ff176284bc9054d0c5795ce68deb49cf7afb319e00793da1664bbfa6f/68747470733a2f2f6c6f676f77696b2e636f6d2f636f6e74656e742f75706c6f6164732f696d616765732f745f706f73746d616e2d6170692d706c6174666f726d363634332e6c6f676f77696b2e636f6d2e77656270" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="50" />
