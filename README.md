@@ -17,6 +17,7 @@ I am looking for my next opportunity to join a winning team 🏆, work on challe
   <div style="display: flex; gap: 10px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" width="50" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" />
@@ -29,7 +30,6 @@ I am looking for my next opportunity to join a winning team 🏆, work on challe
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" width="50" />
   </div>
   
   <div style="display: flex; gap: 10px; margin-top: 10px;">
