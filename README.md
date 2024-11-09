@@ -21,6 +21,7 @@ I am looking for my next opportunity to join a winning team 🏆, work on challe
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" />
@@ -40,13 +41,11 @@ I am looking for my next opportunity to join a winning team 🏆, work on challe
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="50" />
-    <img src="<img width="50" height="50" src="https://img.icons8.com/color/50/amazon-web-services.png" alt="amazon-web-services"/>" width="50" />
-    <img src="" width="50" />
+    <img src="https://img.icons8.com/color/50/amazon-web-services.png" alt="amazon-web-services" width="50" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="50" />
       
