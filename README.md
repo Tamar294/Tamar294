@@ -1,4 +1,4 @@
-#👋 Hi, I'm Tamar
+# 👋 Hi, I'm Tamar
 
 I am a passionate software developer 💻 with a great love for technology and development. I believe in driving creative and precise solutions that streamline processes and help businesses succeed 📈.
 
@@ -6,7 +6,11 @@ For every project I take on, I invest deep thought to ensure that it is not only
 
 I am looking for my next opportunity to join a winning team 🏆, work on challenging projects, and give my best 💯.
 
-#💻 Technologies I’m proficient in:
+📫 Contact me at: tamarcohen294@gmail.com
+
+⚡ "The challenge is not learning a new technology – the challenge is knowing how to use it in the best possible way."
+
+# 💻 Technologies I’m proficient in:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50" />
@@ -34,8 +38,3 @@ I am looking for my next opportunity to join a winning team 🏆, work on challe
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="50" />
 </div>
 
-
-
-📫 Contact me at: tamarcohen294@gmail.com
-
-⚡ "The challenge is not learning a new technology – the challenge is knowing how to use it in the best possible way."
